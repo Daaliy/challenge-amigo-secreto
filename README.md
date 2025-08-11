@@ -13,11 +13,13 @@ Este é um desafio que consiste em desenvolver uma aplicação web simples onde 
 
 ## Como usar
 
-1. Abra o arquivo `index.html` em um navegador.
+1. Abra o link "https://daaliy.github.io/challenge-amigo-secreto/" ou o arquivo `index.html` em um navegador.
 2. Digite o nome do amigo no campo de texto e clique em **Adicionar**.
 3. Repita o processo para todos os amigos que deseja inserir.
 4. Clique no botão **Sortear amigo** para escolher aleatoriamente um nome da lista.
 5. O nome sorteado será exibido na tela.
+
+
 
 ## Tecnologias usadas
 
